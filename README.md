@@ -4,7 +4,7 @@ This repository contains a flat file (csv) of the available context entities sup
 
 * Column headers: domains, entity_id, entity_namehjghjg
   * Note: the "domains" column can contain one or more values. In the case of multiple domains, the value will be wrapped in double quotes (e.g., "10,56,131")
-* File format: CSV
+* File format: CSVkjtkfdgsf
 * File size: ~7 MB
 
 Feel free to download the file(s) in this repository to discover the available context annotation entities. We aim to provide an updated file ~quarterly to encompass new entities that have been added – so please check back in a few months if you desire updates.
